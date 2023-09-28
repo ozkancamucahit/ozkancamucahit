@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ozkancamucahit
-- 👀 I’m interested in Embedded and Mobile Development
+- 👀 I’m interested in Embedded, Mobile & WEB Development
 - 🌱 I’m currently learning Android/Java and Web
 - 💞️ I love introducing bugs to empty text files 
 <!-- - 📫 How to reach me ... -->
